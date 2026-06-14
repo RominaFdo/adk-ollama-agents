@@ -16,3 +16,4 @@
 +*.egg-info/
 +.ipynb_checkpoints/
 +*.log
+my_ollama_agent\.env
